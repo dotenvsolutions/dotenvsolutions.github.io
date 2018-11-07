@@ -103,6 +103,12 @@ footer p {
 	margin: 0;
 }
 
+.hyperlinks {
+	color: white;
+	text-decoration: none;
+	text-decoration-color: inherit;
+}
+
 /* Smals Screams */
 @media(max-width: 560px) {
 	.showcase::after {
